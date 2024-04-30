@@ -1,3 +1,6 @@
+this repo hasnt been updated for months
+will push code here sometime
+
 # Numworks
 A few Numworks tools i'm making in my free time.
 
