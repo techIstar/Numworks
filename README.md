@@ -8,7 +8,7 @@ A few Numworks tools i'm making in my free time.
 lined deals with graphics, drawing geometrical figures that arent supported by kandinsky on epsilon and managing textures
 
 # ionized
-ionized allows for better keyboard interactions
+ionized allows for better keyboard interaction, abandoned right now
 
 # boxes
 boxes is a neat basic GUI toolkit
